@@ -1,0 +1,32 @@
+[
+  {
+    "customer_id": "J5001",
+    "name": "Kavya Reddy",
+    "email": "kavya@gmail.com",
+    "phone": "9999999999",
+    "address": "15 Lake Road",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-10",
+    "source": "CRM"
+  },
+  {
+    "customer_id": "J5002",
+    "name": "Kavya Reddy",
+    "email": "kavya@gmail.com",
+    "phone": "9999999999",
+    "address": "15 Lake Rd",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-15",
+    "source": "Support"
+  },
+  {
+    "customer_id": "J5003",
+    "name": "Vikram Rao",
+    "email": "vikram@gmail.com",
+    "phone": "8888888888",
+    "address": "40 Park Street",
+    "city": "Chennai",
+    "last_updated": "2026-09-12",
+    "source": "Web"
+  }
+]

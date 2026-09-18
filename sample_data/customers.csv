@@ -1,0 +1,8 @@
+customer_id,name,email,phone,address,city,last_updated,source
+C1001,Sneha Srirampur,sneha@gmail.com,9876543210,12 Lake Road,Hyderabad,10-09-2026,CRM
+C1044,S. Srirampur,sneha@gmail.com,9876543210,12 Lake Rd,Hyderabad,12-09-2026,Support
+C1088,Sneh Srirampur,srirampur@gmail.com,9876543210,14 Lake Road,Hyderabad,15-09-2026,Web
+C2001,Rahul Kumar,rahul1@example.com,9000000001,10 MG Road,Bengaluru,01-09-2026,CRM
+C2002,Rahul Kumar,rahul2@example.com,9000000002,22 Park Street,Hyderabad,02-09-2026,Web
+C3001,Anita Rao,anita@example.com,9111111111,5 Green Avenue,Chennai,01-08-2026,CRM
+C3002,Anita Rao,anita@example.com,9222222222,5 Green Avenue,Chennai,20-08-2026,Billing

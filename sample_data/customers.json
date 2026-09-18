@@ -1,0 +1,72 @@
+[
+  {
+    "customer_id": "C1001",
+    "name": "Sneha Srirampur",
+    "email": "sneha@gmail.com",
+    "phone": "9876543210",
+    "address": "12 Lake Road",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-10",
+    "source": "CRM"
+  },
+  {
+    "customer_id": "C1044",
+    "name": "S. Srirampur",
+    "email": "sneha@gmail.com",
+    "phone": "9876543210",
+    "address": "12 Lake Rd",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-12",
+    "source": "Support"
+  },
+  {
+    "customer_id": "C1088",
+    "name": "Sneh Srirampur",
+    "email": "srirampur@gmail.com",
+    "phone": "9876543210",
+    "address": "14 Lake Road",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-15",
+    "source": "Web"
+  },
+  {
+    "customer_id": "C2001",
+    "name": "Rahul Kumar",
+    "email": "rahul1@example.com",
+    "phone": "9000000001",
+    "address": "10 MG Road",
+    "city": "Bengaluru",
+    "last_updated": "2026-09-01",
+    "source": "CRM"
+  },
+  {
+    "customer_id": "C2002",
+    "name": "Rahul Kumar",
+    "email": "rahul2@example.com",
+    "phone": "9000000002",
+    "address": "22 Park Street",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-02",
+    "source": "Web"
+  },
+  {
+    "customer_id": "C3001",
+    "name": "Anita Rao",
+    "email": "anita@example.com",
+    "phone": "9111111111",
+    "address": "5 Green Avenue",
+    "city": "Chennai",
+    "last_updated": "2026-08-01",
+    "source": "CRM"
+  },
+  {
+    "customer_id": "C3002",
+    "name": "Anita Rao",
+    "email": "anita@example.com",
+    "phone": "9222222222",
+    "address": "5 Green Avenue",
+    "city": "Chennai",
+    "last_updated": "2026-08-20",
+    "source": "Billing"
+  }
+]

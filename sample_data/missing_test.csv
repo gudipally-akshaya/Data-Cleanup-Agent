@@ -1,0 +1,4 @@
+customer_id,name,email,phone,address,city,last_updated,source
+C4001,Priya Sharma,priya@gmail.com,9888888888,20 Park Road,Hyderabad,2026-09-10,CRM
+C4002,Priya Sharma,priya@gmail.com,,20 Park Rd,Hyderabad,2026-09-15,Support
+C4003,Arjun Reddy,,9777777777,8 Green Street,Hyderabad,2026-09-12,Web
