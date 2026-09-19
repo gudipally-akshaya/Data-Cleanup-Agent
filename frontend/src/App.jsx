@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-
+const API_URL = "https://data-cleanup-agent-4yaf.onrender.com";
 function App() {
   const [file, setFile] = useState(null);
 
