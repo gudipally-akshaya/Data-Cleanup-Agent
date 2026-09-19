@@ -41,7 +41,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:8000/analyze",
+        "https://data-cleanup-agent-4yaf.onrender.com/analyze",
         {
           method: "POST",
           body: formData,
@@ -92,7 +92,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:8000/apply-decisions",
+        "https://data-cleanup-agent-4yaf.onrender.com/apply-decisions",
         {
           method: "POST",
 
