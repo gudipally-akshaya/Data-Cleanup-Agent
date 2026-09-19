@@ -182,7 +182,7 @@ function App() {
 
     try {
       const response = await fetch(
-        `http://127.0.0.1:8000${endpoint}`,
+  `https://data-cleanup-agent-4yaf.onrender.com${endpoint}`,
         {
           method: "POST",
 
