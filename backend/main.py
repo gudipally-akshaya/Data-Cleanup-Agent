@@ -1310,9 +1310,7 @@ def export_clean_xlsx(
             index=False
         )
 
-        worksheet = writer[
-            "Clean Master Data"
-        ]
+        worksheet = writer.sheets["Clean Master Data"]
 
         # Auto-size columns
         for column_cells in worksheet.columns:
